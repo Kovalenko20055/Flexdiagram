@@ -1,0 +1,50 @@
+.diagram{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	align-items:flex-end
+}
+.percent70{
+	background:#E19AA7;
+	height:70px;
+	width:35px;
+}
+	
+.percent50{
+	background:#A3ACE1;
+	height:50px;
+	width:35px
+}
+.percent30{
+	background:#9FE1C2;
+	height:30px;
+	width:35px
+}
+.percent100{
+	background:#DDE92E;
+	height:100px;
+	width:35px
+}
+.percent90{
+	background:#E1A954;
+	height:90px;
+	width:35px
+}
+
+.percent60{
+	background:#7CD9E1;
+	height:60px;
+	width:35px
+}
+
+.percent10{
+	background:#E9A0D7;
+	height:10px;
+	width:35px
+}
+
+.percent35{
+	background:#A149E9;
+	height:35px;
+	width:35px
+}
